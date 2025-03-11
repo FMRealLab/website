@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/DSCN3984.JPG"
+  image="images/DSCN3984.jpg"
   link="team"
   title="Our Team"
   text=text
