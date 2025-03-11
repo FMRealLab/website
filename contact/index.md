@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/plazaespaña.jpg"
+  caption="Plaza España, Sevilla"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cabd.jpg"
+  caption="Centro Andaluz de Biología del Desarrollo (CABD)"
 %}
 
 {% endcapture %}
