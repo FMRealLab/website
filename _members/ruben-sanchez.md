@@ -1,7 +1,7 @@
 ---
 name: Rubén Sánchez Rodríguez
 image: images/photo.jpg
-role: PhD Student
+role: phd
 group: alum
 links:
   github: "https://github.com/Rubensan8"
