@@ -6,7 +6,7 @@ affiliation: Centro Andaluz de Biología del Desarrollo
 aliases:
   - Francisca M. Real
 links:
-  CABD-page: "https://www.cabd.es/en/research_groups/gene-regulation-and-evolution/summary-458.html"
+  home-page: "https://www.cabd.es/en/research_groups/gene-regulation-and-evolution/summary-458.html"
   orcid: "0000-0003-0692-2260"
   email: fmarrea@upo.es
   twitter: 
