@@ -1,0 +1,10 @@
+---
+name: Rubén Sánchez Rodríguez
+image: images/photo.jpg
+role: PhD Student
+group: alum
+links:
+  github: "https://github.com/Rubensan8"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
