@@ -168,7 +168,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/cshspringlaboratory.jpg
+  image: images/naturegenetics-logo.png
 - id: doi:10.1101/2022.01.12.476048
   title: Cell adhesion and immune response, two main functions altered in the transcriptome
     of seasonally regressed testes of two mammalian species
@@ -185,8 +185,10 @@
   link: https://doi.org/g8739h
   orcid: 0000-0003-0692-2260
   francisca-martinez: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/cshspringlaboratory.jpg
 - id: doi:10.1101/2021.04.14.439779
   title: <i>In vivo</i>dissection of a clustered-CTCF domain boundary reveals developmental
     principles of regulatory insulation
@@ -227,8 +229,10 @@
   link: https://doi.org/g8739j
   orcid: 0000-0003-0692-2260
   francisca-martinez: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/animals-logo.png
 - id: doi:10.1126/science.aaz2582
   title: The mole genome reveals regulatory rearrangements associated with adaptive
     intersexuality
