@@ -17,12 +17,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="fmarrea@upo.es"
   link="fmarrea@upo.es"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
