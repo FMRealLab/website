@@ -23,6 +23,10 @@
 - id: doi:10.1038/s41467-024-47658-x
   type: paper
   image: images/nature-communications-logo.png
+
+- id: doi:10.1242/dev.201562
+  type: paper
+  image: images/development-logo.png
   
 - id: doi:10.1242/dev.201562
   type: paper
@@ -44,13 +48,21 @@
   type: paper
   image: images/naturegenetics-logo.png
 
-- id: doi:10.1038/s41588-022-01117-9
+- id: doi: doi:10.1101/2022.01.12.476048
+  type: paper
+  image: images/cshspringlaboratory.jpg
+  
+- id: doi:10.1101/2022.01.12.476048
   type: paper
   image: images/cshspringlaboratory.jpg
 
 - id: doi:10.1101/2021.04.14.439779
   type: paper
   image: images/cshspringlaboratory.jpg
+
+- id: doi:10.3390/ani11061639
+  type: paper
+  image: images/animals-logo.png
 
 - id: doi:10.1126/science.aaz2582
   type: paper
