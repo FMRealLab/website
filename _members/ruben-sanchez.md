@@ -1,6 +1,6 @@
 ---
 name: Rubén Sánchez Rodríguez
-image: images/photo.jpg
+image: images/cara-ruben.png
 role: phd
 group: alum
 links:
