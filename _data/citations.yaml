@@ -80,7 +80,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/development-logo.svg
+  image: images/development-logo.png
 - id: doi:10.1002/jez.b.23142
   title: Cell adhesion and immune response, two main functions altered in the transcriptome
     of seasonally regressed testes of two mammalian species
@@ -270,7 +270,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/science-logo.svg
+  image: images/science-logo.png
 - id: doi:10.1093/molehr/gaaa027
   title: "Deficiency of the onco-miRNA cluster, miR-106b\u223C25, causes oligozoospermia\
     \ and the cooperative action of miR-106b\u223C25 and miR-17\u223C92 is required\
@@ -336,7 +336,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/elife-logo.svg
+  image: images/elife-logo.png
 - id: doi:10.1095/biolreprod.113.110957
   title: A MicroRNA (mmu-miR-124) Prevents Sox9 Expression in Developing Mouse Ovarian
     Cells1
@@ -355,7 +355,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/boreproduction-logo.svg
+  image: images/boreproduction-logo.png
 - id: doi:10.1095/biolreprod.112.106708
   title: 'Identification of Live Germ-Cell Desquamation as a Major Mechanism of Seasonal
     Testis Regression in Mammals: A Study in the Iberian Mole (Talpa occidentalis)1'
@@ -375,7 +375,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/boreproduction-logo.svg
+  image: images/boreproduction-logo.png
 - id: doi:10.1002/jez.b.22000
   title: Pattern and Density of Vascularization in Mammalian Testes, Ovaries, and
     Ovotestes
@@ -434,7 +434,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/boreproduction-logo.svg
+  image: images/boreproduction-logo.png
 - id: doi:10.1002/jez.b.21291
   title: SOX9 is not required for the cellular events of testicular organogenesis
     in XX mole ovotestes
