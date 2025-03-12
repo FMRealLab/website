@@ -23,5 +23,72 @@
 - id: doi:10.1038/s41467-024-47658-x
   type: paper
   image: images/nature-communications-logo.png
+  
+- id: doi:10.1242/dev.201562
+  type: paper
+  image: images/development-logo.svg
 
+- id: doi:10.1002/jez.b.23142
+  type: paper
+  image: images/jezb-logo.png
+
+- id: doi:10.1101/2023.03.22.533123
+  type: paper
+  image: images/cshspringlaboratory.jpg
+
+- id: doi:10.1101/2022.10.28.514220
+  type: paper
+  image: images/cshspringlaboratory.jpg
+
+- id: doi:10.1038/s41588-022-01117-9
+  type: paper
+  image: images/naturegenetics-logo.jpg
+
+- id: doi:10.1038/s41588-022-01117-9
+  type: paper
+  image: images/cshspringlaboratory.jpg
+
+- id: doi:10.1101/2021.04.14.439779
+  type: paper
+  image: images/cshspringlaboratory.jpg
+
+- id: doi:10.1126/science.aaz2582
+  type: paper
+  image: images/science-logo.svg
+
+- id: doi:10.1093/molehr/gaaa027
+  type: paper
+  image: images/molehr_logo.png
+
+- id: doi:10.1371/journal.pone.0197685
+  type: paper
+  image: images/plosone-logo.png
+
+- id: doi:10.7554/eLife.15635
+  type: paper
+  image: images/elife-logo.svg
+
+- id: doi:10.1095/biolreprod.113.110957
+  type: paper
+  image: images/boreproduction-logo.svg
+
+- id: doi:10.1095/biolreprod.112.106708
+  type: paper
+  image: images/boreproduction-logo.svg
+
+- id: doi:10.1002/jez.b.22000
+  type: paper
+  image: images/jezb-logo.png
+
+- id: doi:10.1159/000323805
+  type: paper
+  image: images/sxd-logo.png
+
+- id: doi:10.1095/biolreprod.109.080135
+  type: paper
+  image: images/boreproduction-logo.svg
+
+- id: doi:10.1002/jez.b.21291
+  type: paper
+  image: images/jezb-logo.png
 
