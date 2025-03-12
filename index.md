@@ -9,14 +9,6 @@ An engaging 1-3 sentence description of your lab.
 {% include section.html %}
 
 
-{%
-  include section.html
-  background="images/Newborns.png"
-  dark=false
-  size=full
-%}
-
-
 {% include section.html %}
 
 ## Highlights
