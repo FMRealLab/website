@@ -86,7 +86,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/DSCN3984.jpg"
+  image="images/foto-grupo-Real.png"
   link="team"
   title="Our Team"
   text=text
