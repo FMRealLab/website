@@ -26,8 +26,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include list.html
-  data="citations.yaml"
+  data="citations"
   component="citation"
-  filter="category == 'featured'"
   style="rich"
 %}
