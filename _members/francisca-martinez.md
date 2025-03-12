@@ -1,6 +1,6 @@
 ---
 name: Francisca Martínez Real
-image: images/photo.jpg
+image: images/cara-fany.png
 role: principal-investigator
 affiliation: Centro Andaluz de Biología del Desarrollo
 aliases:
