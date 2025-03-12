@@ -477,3 +477,37 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/g8739d
+  title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
+    gene program in bat wing development
+  authors:
+  - Magdalena Schindler
+  - Christian Feregrino
+  - Silvia Aldrovandi
+  - Bai-Wei Lo
+  - Anna A. Monaco
+  - Alessa R. Ringel
+  - Ariadna Morales
+  - Tobias Zehnder
+  - Rose Yinghan Behncke
+  - Juliane Glaser
+  - Alexander Barclay
+  - Guillaume Andrey
+  - "Bj\xF8rt K. Kragesteen"
+  - "Ren\xE9 H\xE4gerling"
+  - Stefan Haas
+  - Martin Vingron
+  - Igor Ulitsky
+  - Marc Marti-Renom
+  - Julio Hechavarria
+  - Nicolas Fasel
+  - Michael Hiller
+  - "Dar\xEDo Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  - Francisca M. Real
+  publisher: bioRxiv
+  date: '2024-10-13'
+  link: https://www.biorxiv.org/content/10.1101/2024.10.10.617585v1
+  image: images/cshspringlaboratory.jpg
+  plugin: sources.py
+  file: sources.yaml
