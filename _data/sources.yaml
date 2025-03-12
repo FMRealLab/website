@@ -26,7 +26,7 @@
   
 - id: doi:10.1242/dev.201562
   type: paper
-  image: images/development-logo.svg
+  image: images/development-logo.png
 
 - id: doi:10.1002/jez.b.23142
   type: paper
@@ -42,7 +42,7 @@
 
 - id: doi:10.1038/s41588-022-01117-9
   type: paper
-  image: images/naturegenetics-logo.jpg
+  image: images/naturegenetics-logo.png
 
 - id: doi:10.1038/s41588-022-01117-9
   type: paper
@@ -54,7 +54,7 @@
 
 - id: doi:10.1126/science.aaz2582
   type: paper
-  image: images/science-logo.svg
+  image: images/science-logo.png
 
 - id: doi:10.1093/molehr/gaaa027
   type: paper
@@ -66,15 +66,15 @@
 
 - id: doi:10.7554/eLife.15635
   type: paper
-  image: images/elife-logo.svg
+  image: images/elife-logo.png
 
 - id: doi:10.1095/biolreprod.113.110957
   type: paper
-  image: images/boreproduction-logo.svg
+  image: images/boreproduction-logo.png
 
 - id: doi:10.1095/biolreprod.112.106708
   type: paper
-  image: images/boreproduction-logo.svg
+  image: images/boreproduction-logo.png
 
 - id: doi:10.1002/jez.b.22000
   type: paper
@@ -86,7 +86,7 @@
 
 - id: doi:10.1095/biolreprod.109.080135
   type: paper
-  image: images/boreproduction-logo.svg
+  image: images/boreproduction-logo.png
 
 - id: doi:10.1002/jez.b.21291
   type: paper
