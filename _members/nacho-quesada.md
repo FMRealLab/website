@@ -1,6 +1,6 @@
 ---
 name: José Ignacio Quesada Márquez
-image: images/photo.jpg
+image: images/cara-nacho.png
 role: phd
 group: alum
 links:
