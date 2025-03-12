@@ -24,4 +24,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{%
+  include list.html
+  data="citations"
+  component="citation"
+  filter="category == 'featured'"
+  style="rich"
+%}
