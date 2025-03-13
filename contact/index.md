@@ -11,10 +11,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{%
-  include figure.html
-  image="images/cabd-logo.png"
-%}
+{% capture content %}
+  ![](/images/upo-logo.png)
+
+  ![](/images/cabd-logo.png)
+
+  ![](/images/csic-logo.png)
+{% endcapture %}
+
+{% include grid.html content=content %}
 
 {%
   include button.html
