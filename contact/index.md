@@ -18,6 +18,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.a
 {%
   include figure.html
   image="images/upo-logo.png"
+  width="400px"
+  height="300px"
 %}
 
 {% endcapture %}
@@ -27,6 +29,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.a
 {%
   include figure.html
   image="images/cabd-logo.png"
+  width="400px"
+  height="300px"
 %}
 
 {% endcapture %}
@@ -36,6 +40,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.a
 {%
   include figure.html
   image="images/csic-logo.png"
+  width="400px"
+  height="300px"
 %}
 
 {% endcapture %}
