@@ -87,6 +87,14 @@
 - id: doi:10.1002/jez.b.22000
   type: paper
   image: images/jezb-logo.png
+  authors:
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - Francisca M. Real
+  - Rajesh K. Dadhich
+  - Francisco D. Carmona
+  - Miguel Burgos
+  - Francisco J. Barrionuevo
+  - "Rafael Jim\xE9nez"
 
 - id: doi:10.1159/000323805
   type: paper
