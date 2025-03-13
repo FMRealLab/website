@@ -11,15 +11,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% capture content %}
-  ![](/images/upo-logo.png)
+{% capture col1 %}![](/images/upo-logo.png){% endcapture %}
+{% capture col2 %}![](/images/cabd-logo.png){% endcapture %}
+{% capture col3 %}![](/images/csic-logo.png){% endcapture %}
 
-  ![](/images/cabd-logo.png)
-
-  ![](/images/csic-logo.png)
-{% endcapture %}
-
-{% include grid.html content=content %}
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+  col3=col3
+%}
 
 {%
   include button.html
