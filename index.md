@@ -83,3 +83,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/upo-logo.png"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/cabd-logo.png"
+%}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/csic-logo.png"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
