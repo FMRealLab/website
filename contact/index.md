@@ -29,6 +29,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.a
   image="images/cabd-logo.png"
 %}
 
+{% endcapture %}
+
 {% capture col3 %}
 
 {%
