@@ -11,41 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/upo-logo.png"
-  width="400px"
-  height="300px"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/cabd-logo.png"
-  width="400px"
-  height="300px"
-%}
-
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
-  image="images/csic-logo.png"
-  width="400px"
-  height="300px"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
-
 {% include section.html %}
 
 {%
