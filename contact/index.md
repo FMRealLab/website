@@ -13,16 +13,32 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% capture col1 %}![](/images/upo-logo.png){% endcapture %}
-{% capture col2 %}![](/images/cabd-logo.png){% endcapture %}
-{% capture col3 %}![](/images/csic-logo.png){% endcapture %}
+{% capture col1 %}
 
 {%
-  include cols.html
-  col1=col1
-  col2=col2
-  col3=col3
+  include figure.html
+  image="images/upo-logo.png"
 %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/cabd-logo.png"
+%}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/csic-logo.png)"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html %}
 
