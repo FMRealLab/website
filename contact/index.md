@@ -33,7 +33,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/csic-logo.png)"
+  image="images/csic-logo.png"
 %}
 
 {% endcapture %}
