@@ -28,4 +28,4 @@ Our research is focused on the biology of the mole, a species with a compendium 
 
 {% include search-info.html %}
 
-{% include section.html 
+{% include section.html %}
