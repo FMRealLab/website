@@ -18,6 +18,7 @@
 
 - id: doi:10.1101/2024.10.10.617585
   type: paper
+  description: Currently as a preprint on BioRxiv.
   image: images/cshspringlaboratory.jpg
 
 - id: doi:10.1038/s41467-024-47658-x
@@ -38,10 +39,12 @@
 
 - id: doi:10.1101/2023.03.22.533123
   type: paper
+  description: Currently as a preprint on BioRxiv.
   image: images/cshspringlaboratory.jpg
 
 - id: doi:10.1101/2022.10.28.514220
   type: paper
+  description: Currently as a preprint on BioRxiv.
   image: images/cshspringlaboratory.jpg
 
 - id: doi:10.1038/s41588-022-01117-9
@@ -50,10 +53,12 @@
 
 - id: doi:10.1101/2022.01.12.476048
   type: paper
+  description: BioRxiv published later as doi: 10.1002/jez.b.23142
   image: images/cshspringlaboratory.jpg
 
 - id: doi:10.1101/2021.04.14.439779
   type: paper
+  description: BioRxiv published later as doi: 10.1038/s41588-022-01117-9
   image: images/cshspringlaboratory.jpg
 
 - id: doi:10.3390/ani11061639
