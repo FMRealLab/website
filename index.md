@@ -1,12 +1,9 @@
 ---
 ---
 
-# Real Lab Website
+# **Gene REgulation and Evolution**
 
 An engaging 1-3 sentence description of your lab.
-
-
-{% include section.html %}
 
 
 {% include section.html %}
@@ -85,6 +82,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% include section.html %}
+
+## Funding
 
 {% capture col1 %}
 
