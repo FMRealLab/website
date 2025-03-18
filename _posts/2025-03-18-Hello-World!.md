@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-image: images/background.jpg
+image: images/Fondo_CABD.jpg
 author: Real Lab Team
 ---
 
