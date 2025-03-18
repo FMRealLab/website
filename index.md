@@ -112,7 +112,7 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2  %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% capture col1 %}
 
