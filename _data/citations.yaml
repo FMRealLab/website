@@ -37,7 +37,7 @@
   file: sources.yaml
   type: paper
   description: Currently as a preprint on BioRxiv.
-  image: images/cshspringlaboratory.jpg
+  image: images/Fig-Bat-paper.jpg
 - id: doi:10.1038/s41467-024-47658-x
   title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster
   authors:
@@ -81,7 +81,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/development-logo.png
+  image: images/Fig-Sall1-paper.png
 - id: doi:10.1002/jez.b.23142
   title: Cell adhesion and immune response, two main functions altered in the transcriptome
     of seasonally regressed testes of two mammalian species
@@ -102,7 +102,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/jezb-logo.png
+  image: images/Fig-CellAdhesion-paper.png
 - id: doi:10.1101/2023.03.22.533123
   title: "Complete male-to-female sex reversal in XY mice lacking the<i>miR-17\u223C\
     92</i>cluster"
@@ -279,7 +279,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/science-logo.png
+  image: images/Fig-Science-paper.png
 - id: doi:10.1093/molehr/gaaa027
   title: "Deficiency of the onco-miRNA cluster, miR-106b\u223C25, causes oligozoospermia\
     \ and the cooperative action of miR-106b\u223C25 and miR-17\u223C92 is required\
