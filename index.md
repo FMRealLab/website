@@ -1,7 +1,7 @@
 ---
 ---
 
-# **Gene REgulation and Evolution**
+# **Gene Regulation and Evolution**
 
 An engaging 1-3 sentence description of your lab.
 
