@@ -12,7 +12,25 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+## See our hihglighted publications
+
+{% capture content %}
+
+  {% include citation.html lookup="doi:10.1101/2024.10.10.617585" style="rich" %}
+
+  {% include citation.html lookup="doi:10.1242/dev.201562" style="rich" %}
+
+  {% include citation.html lookup="doi:10.1002/jez.b.23142" style="rich" %}
+
+  {% include citation.html lookup="doi:10.1126/science.aaz2582" style="rich" %}
+  
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
