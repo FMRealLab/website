@@ -112,7 +112,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}}
+{% include cols.html col1=col1 col2=col2  %}
 
 {% capture col1 %}
 
@@ -127,12 +127,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include figure.html
-  image="images/Junta_logo"
+  image="images/Junta_logo.png"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}}
+{% include cols.html col1=col1 col2=col2 %}
 
 {%
   include figure.html
