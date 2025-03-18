@@ -136,13 +136,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% capture col1 %}
 
 {%
   include figure.html
   image="images/PRTR.png"
 %}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 %}
