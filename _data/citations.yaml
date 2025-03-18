@@ -37,7 +37,7 @@
   file: sources.yaml
   type: paper
   description: Currently as a preprint on BioRxiv.
-  image: images/Fig-Bat-paper.jpg
+  image: images/Fig-Bat-paper.png
 - id: doi:10.1038/s41467-024-47658-x
   title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster
   authors:
