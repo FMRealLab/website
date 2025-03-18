@@ -12,7 +12,7 @@ We apply cutting-edge technologies to investigate gene regulation at different l
 
 {%
   include figure.html
-  image="Mole-Mouse-Embryos.png"
+  image="images/Mole-Mouse-Embryos.png"
   caption="Mole and mouse embryos"
   width="400px"
 %}
@@ -21,7 +21,7 @@ Our research is focused on the biology of the mole, a species with a compendium 
 
 {%
   include figure.html
-  image="Limb-topo.png"
+  image="images/Limb-topo.png"
   caption="Mole and mouse embryos"
   width="400px"
 %}
