@@ -19,7 +19,7 @@
 - id: doi:10.1101/2024.10.10.617585
   type: paper
   description: Currently as a preprint on BioRxiv.
-  image: images/cshspringlaboratory.jpg
+  image: images/Fig-Bat-paper.jpg
 
 - id: doi:10.1038/s41467-024-47658-x
   type: paper
@@ -27,11 +27,11 @@
   
 - id: doi:10.1242/dev.201562
   type: paper
-  image: images/development-logo.png
+  image: images/Fig-Sall1-paper.png
 
 - id: doi:10.1002/jez.b.23142
   type: paper
-  image: images/jezb-logo.png
+  image: images/Fig-CellAdhesion-paper.png
 
 - id: doi:10.1101/2023.03.22.533123
   type: paper
@@ -63,7 +63,7 @@
 
 - id: doi:10.1126/science.aaz2582
   type: paper
-  image: images/science-logo.png
+  image: images/Fig-Science-paper.png
 
 - id: doi:10.1093/molehr/gaaa027
   type: paper
