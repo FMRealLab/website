@@ -24,10 +24,6 @@
 - id: doi:10.1038/s41467-024-47658-x
   type: paper
   image: images/nature-communications-logo.png
-
-- id: doi:10.1242/dev.201562
-  type: paper
-  image: images/development-logo.png
   
 - id: doi:10.1242/dev.201562
   type: paper
