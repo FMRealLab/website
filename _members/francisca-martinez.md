@@ -2,7 +2,6 @@
 name: Francisca Martínez Real
 image: images/cara-fany.png
 role: principal-investigator
-affiliation: Centro Andaluz de Biología del Desarrollo
 aliases:
   - Francisca M. Real
 links:
