@@ -132,11 +132,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% endcapture %}
 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-
 {%
   include figure.html
   image="images/PRTR.png"
