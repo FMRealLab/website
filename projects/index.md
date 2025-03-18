@@ -23,7 +23,7 @@ Our research is focused on the biology of the mole, a species with a compendium 
 {%
   include figure.html
   image="images/Mole-Mouse-Embryos.png"
-  description: description
+  caption: caption
 %}
 
 {% endcapture %}
@@ -33,7 +33,7 @@ Our research is focused on the biology of the mole, a species with a compendium 
 {%
   include figure.html
   image="images/Limb-topo.png
-  description: description
+  caption: caption
 %}
 
 {% endcapture %}
