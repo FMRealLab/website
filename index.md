@@ -60,7 +60,7 @@ Moles have evolved a unique set of traits to survive in the harsh underground en
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab brings together a dynamic team of both experimental and computational members. This hybrid approach encourages teamwork, combining different perspectives to decode the complexities of mole evolutionary traits.
 
 {%
   include button.html
