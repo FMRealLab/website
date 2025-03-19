@@ -31,12 +31,12 @@
 
 - id: doi:10.1101/2022.01.12.476048
   type: paper
-  description: BioRxiv published later as.
+  description: BioRxiv published later on Journal of Experimental Zoology Part B: Molecular and Developmental Evolution.
   image: images/BioRxiv_logo.png
 
 - id: doi:10.1101/2021.04.14.439779
   type: paper
-  description: BioRxiv published later as.
+  description: BioRxiv published later on Nature Genetics.
   image: images/BioRxiv_logo.png
 
 - id: doi:10.3390/ani11061639
