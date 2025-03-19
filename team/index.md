@@ -20,9 +20,11 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" caption="caption" %}
+
+{% include figure.html image="images/photo.jpg" caption="caption" %}
+
+{% include figure.html image="images/photo.jpg" caption="caption" %}
 
 {% endcapture %}
 
