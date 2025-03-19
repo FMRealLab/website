@@ -14,7 +14,6 @@ We apply cutting-edge technologies to investigate gene regulation at different l
   include figure.html
   image="images/Mole-Mouse-Embryos.png"
   caption="Mole and mouse embryos"
-  width="400px"
 %}
 
 Our research is focused on the biology of the mole, a species with a compendium of unique traits that makes it a fascinating model to study gene regulatory evolution. Moles live underground and have consequently evolved distinct phenotypes adapted to subterranean environments. These include eye degeneration, resistant to hypoxia or extremely adapted limbs that allow them to “_swim_” in soil or water. Furthermore, female moles are intersexual as they develop ovotestes instead of ovaries, like most mammals. Ovotestes produce high amounts of testosterone, similar to males, which masculinize female moles and render them stronger to survive in fossorial environments. In previous research, we have generated a chromosome-resolved genome for the Iberian mole, **_Talpa occidentalis_**, thus enabling genomic and gene regulation studies in this iconic species. Using this valuable resource, we demonstrated that the development of ovotestes is associated to changes in the 3D regulatory domains of sex-specific genes [Real _et al_, Science 2020](https://www.science.org/doi/10.1126/science.aaz2582). Therefore, using the mole as a model, our group combines comparative genomics, 3D gene regulation and transgenic approaches to model evolution _in vivo_.
@@ -23,7 +22,6 @@ Our research is focused on the biology of the mole, a species with a compendium 
   include figure.html
   image="images/Limb-topo.png"
   caption="Specialized mole limb morphology"
-  width="400px"
 %}
 
 {% include search-info.html %}
