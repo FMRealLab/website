@@ -44,3 +44,5 @@ Our lab is part of the Department of Gene Regulation and Morphogenesis at the Ce
 %}
 
 {% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
