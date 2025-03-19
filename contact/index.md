@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the Department of Gene Regulation and Morphogenesis at the Centro Andaluz de Biología del Desarollo (CABD), recognized with the María de Maeztu Distinction, inside the campus of Universidad Pablo de Olavide (UPO). We are also affiliated with Centro Superior de Investigaciones Científicas (CSIC) and our lab is located on the first floor of CABD (Lab 110).
 
 {%
   include button.html
