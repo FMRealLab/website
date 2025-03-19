@@ -191,7 +191,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: BioRxiv published later as.
+  description: BioRxiv published later on 2022.
   image: images/BioRxiv_logo.png
 - id: doi:10.1101/2021.04.14.439779
   title: <i>In vivo</i>dissection of a clustered-CTCF domain boundary reveals developmental
@@ -215,7 +215,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: BioRxiv published later as.
+  description: BioRxiv published later on 2022.
   image: images/BioRxiv_logo.png
 - id: doi:10.3390/ani11061639
   title: 'Mediterranean Pine Vole, Microtus duodecimcostatus: A Paradigm of an Opportunistic
