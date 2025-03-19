@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: See our updates!
 ---
 
 # {% include icon.html icon="a-regular fa-newspaper" %} News
