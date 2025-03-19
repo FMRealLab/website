@@ -20,11 +20,11 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {% capture content %}
 
-{% include figure.html image="images/Coffee_time.png" caption="Our lab’s coffee machine: the only one who truly understands our need for constant _stimulation_!" %}
+{% include figure.html image="images/Coffee_time.png" width="400px" caption="Our lab’s coffee machine: the only one who truly understands our need for constant _stimulation_!" %}
 
-{% include figure.html image="images/Casual_lab.png" caption="Nacho caught doing experiments... or just pretending!" %}
+{% include figure.html image="images/Casual_lab.png" width="400px" caption="Nacho caught doing experiments... or just pretending!" %}
 
-{% include figure.html image="images/Casual_compulab.png" caption=" Casually caught Rubén analyzing scRNA-seq data... this moment was _absolutely_ not planned for the photo" %}
+{% include figure.html image="images/Casual_compulab.png" width="400px" caption=" Casually caught Rubén analyzing scRNA-seq data... this moment was _absolutely_ not planned for the photo" %}
 
 {% endcapture %}
 
