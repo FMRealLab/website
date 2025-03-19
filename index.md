@@ -118,8 +118,7 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {%
   include figure.html
-  image="images/Maeztu_AEinvest.png"
-  height="267px"
+  image="images/Maeztu.png"
 %}
 
 {% endcapture %}
@@ -128,13 +127,21 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {%
   include figure.html
-  image="images/Junta_logo.png"
-  height="267px"
+  image="images/AEinvest.png"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/Junta_logo.png"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {%
   include figure.html
