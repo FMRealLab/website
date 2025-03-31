@@ -1,6 +1,6 @@
 ---
 title: Nacho First Steps in the lab!
-image: images/cara-nacho.png
+image: images/blastocysts-nacho.png
 author: Real Lab Team
 ---
 
