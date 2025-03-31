@@ -1,6 +1,6 @@
 ---
 title: Nacho First Steps in the lab!
-image: images/Fondo_CABD.jpg
+image: images/cara-nacho.png
 author: Real Lab Team
 ---
 
