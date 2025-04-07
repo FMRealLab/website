@@ -1,6 +1,6 @@
 ---
 title: Fundraising Party for migrant women's settlements in Huelva
-image: images/Fondo_CABD.jpg
+image: images/SpringParty_Reallab.png
 author: Real Lab Team
 ---
 
