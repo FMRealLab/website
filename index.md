@@ -156,7 +156,7 @@ We would like to sincerely thank the [Greene Lab](https://greenelab.com/) for cr
 
 We would like to express our gratitude to the Centro Andaluz de Biología del Desarrollo (CABD), their facilities (which include the animal house, bioinformatics service, cytometry, cell culture, functional genomics, proteomics, microscopy and imaging as well as material and media preparation (kitchen)), the administrative and maintenance staff.
 
-Finally we are grateful to our collaborators, the members of the [Lupiañez Lab](https://lupilab.wordpress.com/) Dr. Dario Lupiañez, [Lewin Lab](https://www.mdc-berlin.de/lewin) Prof. Gary Lewin, [Boeke Lab](https://med.nyu.edu/research/boeke-lab/) Prof. Jef Boeke, [Marti-Renom Lab](https://www.crg.eu/marc_marti_renom) Prof. Marc Marti-Renom, [Hiller Lab](https://tbg.senckenberg.de/hillerlab/pi/) Prof. Michael Hiller and [Reznick Lab](https://reznicklab.com/) Dr. Jane Reznick.
+Finally we are grateful to our collaborators, the members of the [Lupiañez Lab](lupianezlab.github.io/Website/) Dr. Dario Lupiañez, [Lewin Lab](https://www.mdc-berlin.de/lewin) Prof. Gary Lewin, [Boeke Lab](https://med.nyu.edu/research/boeke-lab/) Prof. Jef Boeke, [Marti-Renom Lab](https://www.crg.eu/marc_marti_renom) Prof. Marc Marti-Renom, [Hiller Lab](https://tbg.senckenberg.de/hillerlab/pi/) Prof. Michael Hiller and [Reznick Lab](https://reznicklab.com/) Dr. Jane Reznick.
 
 
 
