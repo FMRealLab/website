@@ -16,7 +16,7 @@ Over 560 million years ago, early fishes lacked appendages, but evolution introd
 
 Unlike this common trend of digit reduction within tetrapods, moles have five digits plus a pseudodigit. The latter lacks phalanges like a true digit and has been classified as an enlarged sesamoid bone, but it retains mobility, which highlights its functionality. It contributes to the broadening of the hand, which is likely very helpful for digging, as moles are fossorial animals. This unique feature led us to question which molecular mechanisms drive its developmental and evolutionary origin. 
 
-To explore this, we are using single-cell technologies to study cell type–specific gene expression and cis-regulatory elements in the mole species Talpa Occidentalis. We also plan to perform comparative genomics with other members of the Talpidae family to gain evolutionary insights into this trait. In this talk, I’ll present our progress analyzing scRNA-seq data from mole and mouse limbs. 
+To explore this, we are using single-cell technologies to study cell type–specific gene expression and cis-regulatory elements in the mole species _Talpa Occidentalis_. We also plan to perform comparative genomics with other members of the Talpidae family to gain evolutionary insights into this trait. In this talk, I’ll present our progress analyzing scRNA-seq data from mole and mouse limbs. 
 
 {% capture col1 %}
 
