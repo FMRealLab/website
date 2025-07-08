@@ -8,7 +8,7 @@ author: Real Lab Team
 
 This Monday, our PhD student Ruben had the opportunity to present the latest progress on his thesis project at the CABD meeting. His talk is titled:
 
-"Exploring Mole's Pseudodigit Development in Talpa occidentalis"*
+"Exploring Mole's Pseudodigit Development in _Talpa occidentalis_"
 
 Here you have the summary of the talk: 
 
