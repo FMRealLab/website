@@ -27,5 +27,5 @@ Read current 🗞️ press news 📰 about the paper here:
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 %} 
 
