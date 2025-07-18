@@ -8,7 +8,7 @@ If you’re curious about how to build a bat wing by re-using existing gene prog
 
 {%
   include figure.html
-  image="images/paper bat_prueba.png"
+  image="images/Fig-Bat-paper.png"
   caption="Schindler, M., Feregrino, C., Aldrovandi, S. et al. Comparative single-cell analyses reveal evolutionary repurposing of a conserved gene programme in bat wing development. Nat Ecol Evol (2025). ([https://doi.org/10.1038/s41559-025-02780-x](https://doi.org/10.1038/s41559-025-02780-x))"
   width="700px"
 %}
