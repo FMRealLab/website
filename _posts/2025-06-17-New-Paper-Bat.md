@@ -4,7 +4,7 @@ image: images/Cover-Schindler-Feregrino-1.png
 author: Real Lab Team
 ---
 
-If you’re curious about how to build a bat wing by re-using existing gene programs 🧬, check out the link or the tutorial below. Big congratulations to all co-authors 💜!! Thanks to reviewers!
+If you’re curious about how to build a bat wing by re-using existing gene programs 🧬, check out the link or the tutorial below. Big congratulations to all co-authors 💜!! Thanks to reviewers! Picture Credits: Gene expression of bat wings, cell by cell by Jim Hsu    
 
 {%
   include figure.html
