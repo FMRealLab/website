@@ -17,13 +17,13 @@ Read current 🗞️ press news 📰 about the paper here:
 
 {% capture col1 %}
 
-{% include figure.html image="images/max-planck-logo.png" caption="([Max Planck Institute for Molecular Genetics](https://www.molgen.mpg.de/news-2025-flying-with-hands))" width="600px" %}
+{% include figure.html image="images/max-planck-logo.png" caption="([Max Planck Institute for Molecular Genetics](https://www.molgen.mpg.de/news-2025-flying-with-hands))" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/csic_andalucia.png" caption="([Centro Superior Investagaciones Científicas](https://delegacion.andalucia.csic.es/un-estudio-revela-que-las-alas-de-los-murcielagos-se-forman-reutilizando-programas-geneticos-ya-existentes/))" width="600px" %}
+{% include figure.html image="images/csic_andalucia.png" caption="([Centro Superior Investagaciones Científicas](https://delegacion.andalucia.csic.es/un-estudio-revela-que-las-alas-de-los-murcielagos-se-forman-reutilizando-programas-geneticos-ya-existentes/))" %}
 
 {% endcapture %}
 
