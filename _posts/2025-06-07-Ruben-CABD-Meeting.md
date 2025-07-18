@@ -1,12 +1,12 @@
 ---
-title:  Ruben CABD Meeting
+title:  Rubén CABD Meeting
 image: images/Portada_Ruben_CABD_meeting.png
 author: Real Lab Team
 ---
 
-🎉 Ruben CABD Meeting 🧬
+🎉 Rubén CABD Meeting 🧬
 
-This Monday, our PhD student Ruben had the opportunity to present the latest progress on his thesis project at the CABD meeting. His talk is titled:
+This Monday, our PhD student Rubén had the opportunity to present the latest progress on his thesis project at the CABD meeting. His talk is titled:
 
 "Exploring Mole's Pseudodigit Development in _Talpa occidentalis_"
 
