@@ -6,7 +6,7 @@ group: alum
 links:
   github: Rubensan8
   email: rsanrod1@upo.es
-  bluesky:
+  bluesky: biorsrodriguez.bsky.social
 ---
 
 I am a Ph.D. student in the Real Lab. I graduated from the Universidad de Córdoba (UCO) with a B.S. in Biochemistry in 2023, and then completed a Master's in Omic Data Analysis and Systems Biology at the Universidad de Sevilla (US) in 2024. My research interests focus on analyzing transcriptomic and epigenomic datasets to uncover the complex gene regulation mechanisms that drive gene expression.
