@@ -21,7 +21,7 @@ highlights both shared ancestry and independent specializations in the avian and
 
 {% capture col2 %}
 
-{% include figure.html image="images/Invited_speaker_Fernando_02.png" caption="CABD auditorium" %}
+{% include figure.html image="images/Invited_speaker_Fernando_01.png" caption="CABD auditorium" %}
 
 {% endcapture %}
 
