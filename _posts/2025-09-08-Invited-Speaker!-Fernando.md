@@ -1,5 +1,5 @@
 ---
-title: "🎉 Invited speaker: Fernando García-Moreno from the Achucarro Basque Center for Neuroscience in Bizkaia 🎉"
+title: "Invited speaker: Fernando García-Moreno from the Achucarro Basque Center for Neuroscience in Bizkaia"
 image: images/Invited_speaker_Fernando_02.png
 author: Real Lab Team
 ---
