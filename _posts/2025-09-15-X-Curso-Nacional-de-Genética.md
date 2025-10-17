@@ -17,7 +17,7 @@ As part of the program, Rubén gave a flash talk presenting his project, which p
 
 {% capture col2 %}
 
-{% include figure.html image="images/SEG_participants.png" caption="All participants of the X Curso Nacional de Genética" %}
+{% include figure.html image="images/SEG_participants.png" caption="Participants of the X Curso Nacional de Genética" %}
 
 {% endcapture %}
 
