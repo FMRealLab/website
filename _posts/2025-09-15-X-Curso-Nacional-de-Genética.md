@@ -22,4 +22,4 @@ As part of the program, Rubén gave a flash talk presenting his project, which p
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 height="500px" %}
+{% include cols.html col1=col1 col2=col2 %}
