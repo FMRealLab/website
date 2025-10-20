@@ -12,13 +12,13 @@ As part of the program, Rubén gave a flash talk presenting his project, which p
 
 {% capture col1 %}
 
-{% include figure.html image="images/SEG_flashtalk.png" caption="Flash Talk" width="500px" %}
+{% include figure.html image="images/SEG_flashtalk.png" caption="Flash Talk" width="600px" height="500px" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/SEG_participants.png" caption="Participants of the X Curso Nacional de Genética" width="500px" %}
+{% include figure.html image="images/SEG_participants.png" caption="Participants of the X Curso Nacional de Genética" width="600px" height="500px" %}
 
 {% endcapture %}
 
