@@ -25,7 +25,7 @@ and TBX3 in mouse distal limb cells resulted in the activation of genes expresse
 development and phenotypic changes related to wing morphology, such as the fusion of digits. Our
 results elucidate fundamental molecular mechanisms of bat wing development and illustrate how drastic
 morphological changes can be achieved through repurposing of existing developmental programs
-during evolution.
+during evolution. 
 
 
 {% capture col1 %}
