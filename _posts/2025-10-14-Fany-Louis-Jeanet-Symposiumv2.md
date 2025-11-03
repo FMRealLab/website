@@ -1,6 +1,6 @@
 ---
 title: Fany as Invited speaker at 2025 Louis-Jeantet Symposium
-image: images/Louise-Jeantet-SymposiumFlyer.png
+image: images/header-Louise-Jeantet-SymposiumFlyer.png
 author: Real Lab Team
 ---
 
