@@ -36,7 +36,7 @@ during evolution.
 
 {% capture col2 %}
 
-{% include figure.html image="images/Louise-Jeantet-symposium.png" caption="Fany in action during her presentation" %}
+{% include figure.html image="images/Louise-Jeantet-symposium.png" caption="Fany in action during her presentation" height="400px" %}
 
 {% endcapture %}
 
