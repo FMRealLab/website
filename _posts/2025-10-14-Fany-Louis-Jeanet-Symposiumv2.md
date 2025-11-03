@@ -28,6 +28,6 @@ during evolution.
 
 {% include figure.html image="images/Louise-Jeantet-symposium.png" caption="Fany in action during her presentation" height="400px" %}
 
-{% include figure.html image="images/Louise-Jeantet-SymposiumFlyer.png" caption="2025 Louis-Jeantet Symposium Poster" %}
+{% include figure.html image="images/Louise-Jeantet-SymposiumFlyer.png" caption="2025 Louis-Jeantet Symposium Poster" width="70%" %}
 
 If you want to know more about the symposium you can check their website: ([Louis-Jeantet Symposium info](https://www.jeantet.ch/en/public-events/symposium-2025/))
