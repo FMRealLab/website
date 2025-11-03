@@ -26,18 +26,8 @@ morphological changes can be achieved through repurposing of existing developmen
 during evolution. 
 
 
-{% capture col1 %}
-
-{% include figure.html image="images/Louise-Jeantet-SymposiumFlyer.png" caption="2025 Louis-Jeantet Symposium Poster" %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
 {% include figure.html image="images/Louise-Jeantet-symposium.png" caption="Fany in action during her presentation" height="400px" %}
 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
+{% include figure.html image="images/Louise-Jeantet-SymposiumFlyer.png" caption="2025 Louis-Jeantet Symposium Poster" %}
 
 If you want to know more about the symposium you can check their website: ([Louis-Jeantet Symposium info](https://www.jeantet.ch/en/public-events/symposium-2025/))
