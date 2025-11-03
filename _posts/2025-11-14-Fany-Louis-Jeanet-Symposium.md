@@ -1,5 +1,5 @@
 ---
-title:  Fany as Invited speaker at 2025 Louis-Jeantet Symposium
+title: Fany as Invited speaker at 2025 Louis-Jeantet Symposium
 image: images/Louise-Jeantet-symposium.png
 author: Real Lab Team
 ---
@@ -43,4 +43,3 @@ during evolution.
 {% include cols.html col1=col1 col2=col2 %}
 
 If you want to know more about the symposium you can check their website: ([Louis-Jeantet Symposium info](https://www.jeantet.ch/en/public-events/symposium-2025/))
-
