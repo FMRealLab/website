@@ -4,9 +4,7 @@ image: images/header-Louise-Jeantet-SymposiumFlyer.png
 author: Real Lab Team
 ---
 
-As part of the invited speakers, Fany presented her talk: 
-
-**Elucidating the molecular basis of mammalian flight**
+As part of the invited speakers, Fany presented her talk: **Elucidating the molecular basis of mammalian flight**
 
 Bats are the only mammals capable of self-powered flight, an evolutionary innovation based on the
 transformation of forelimbs into wings. The bat wing is characterized by an extreme elongation of the
