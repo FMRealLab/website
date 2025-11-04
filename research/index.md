@@ -15,7 +15,7 @@ We use genomics and omics approaches to explore classic EvoDevo questions, combi
 
 {% capture col1 %}
 
-{% include citation.html lookup="doi:10.1101/2024.10.10.617585" style="rich" %}
+{% include citation.html lookup="pmid:40670657" style="rich" %}
 
 {% endcapture %}
 
