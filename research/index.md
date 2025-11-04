@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-We use genomics and omics approaches to explore classic EvoDevo questions, combining them with synthetic biology to validate our findings in _in vivo_ models. 
+We use genomics and omics approaches to explore classic EvoDevo questions, combining them with synthetic biology to validate our findings in _in vivo_ models.  
 
 {% include section.html %}
 
