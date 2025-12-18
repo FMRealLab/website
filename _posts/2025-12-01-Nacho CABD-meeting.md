@@ -1,6 +1,6 @@
 ---
 title:  Nacho CABD Meeting
-image: images/Portada_Ruben_CABD_meeting.png
+image: images/Portada_Nacho_CABD_meeting.png
 author: Real Lab Team
 ---
 
@@ -16,13 +16,13 @@ Understanding how genomic mutations drive phenotypic evolution is a central ques
 
 {% capture col1 %}
 
-{% include figure.html image="images/Portada_Ruben_CABD_meeting.png" %}
+{% include figure.html image="images/Portada_Nacho_CABD_meeting.png" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/Ruben_CABD_meeting.png" %}
+{% include figure.html image="images/Nacho_CABD_meeting.png" %}
 
 {% endcapture %}
 
