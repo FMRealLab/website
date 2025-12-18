@@ -17,4 +17,4 @@ Explore the outreach activities of our lab!
 
 {% include search-info.html %}
 
-{% include list.html data="_outreachposts" component="post-excerpt" %}
+{% include list.html data="outreachposts" component="post-excerpt" %}
