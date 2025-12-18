@@ -5,7 +5,7 @@ nav:
   tooltip: See our updates!
 ---
 
-# {% include icon.html icon="a-regular fa-newspaper" %} News
+# {% include icon.html icon="a-regular fa-newspaper" %} Outreach activities
 
 Explore the outreach activities of our lab!
 
