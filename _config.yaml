@@ -35,7 +35,7 @@ defaults:
       layout: post
   # markdown files in /_outreachposts
   - scope:
-      type: "posts"
+      type: "outreachposts"
     values:
       layout: post
 
