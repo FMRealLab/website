@@ -8,8 +8,6 @@ author: Real Lab Team
 
 Nacho and Rubén had the incredible opportunity to participate in the Seville Science Fair last week (April 22–24) as part of the CABD stand! They shared our research on decoding the evolutionary traits of moles, focusing on the unique adaptations of their limbs.
 
-It was a fantastic opportunity to engage with the public and share the science behind mole evolution. 
-
 {% capture col1 %}
 
 {% include figure.html image="images/Feria_nacho.png" %}
