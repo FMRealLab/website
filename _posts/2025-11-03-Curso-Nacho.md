@@ -1,10 +1,10 @@
 ---
-title:  Nacho CABD Nacho participated in the Principles of Evolution III organized by LifeHUB (CSIC) 🐾
+title: Nacho participated in the Principles of Evolution III organized by LifeHUB (CSIC) 🐾
 image: images/Nacho_participants_PoE.png
 author: Real Lab Team
 ---
 
-Nacho participated in the Principles of Evolution III: Biology through Time and Organizational Levels course organized by LifeHUB (CSIC).
+Nacho participated in the [Principles of Evolution III](https://lifehub.csic.es/curso-poe-iii-principles-of-evolution-course-biology-through-time-organizational-levels/): Biology through Time and Organizational Levels course organized by LifeHUB (CSIC).
 
 The course took place at the Doñana Biological Reserve, in Doñana National Park (Huelva, Spain), from 3 to 14 November 2025. During the course, Nacho attended lectures and discussions by researchers in evolutionary biology covering topics such as evolutionary processes across different timescales, levels of biological organization, and comparative perspectives across species. The program combined theoretical sessions with practical activities in a unique natural environment. 🏞️
 
