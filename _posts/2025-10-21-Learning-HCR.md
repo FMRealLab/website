@@ -11,13 +11,13 @@ HCR is a _in situ_ hybridization method that allows to visualize the spatial dis
 
 {% capture col1 %}
 
-{% include figure.html image="images/HCR_Nacho_Ruben.png" caption="When you tell the sample: ‘Everything better go right… or else!" %}
+{% include figure.html image="images/HCR_Nacho_Ruben.png" caption="When you tell the sample: ‘Everything better go right… or else!" height="500px" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/HCR_Keren_Ruben.png" caption="Optimizing steps while enjoying the process" %}
+{% include figure.html image="images/HCR_Keren_Ruben.png" caption="Optimizing steps while enjoying the process" height="500px" %}
 
 {% endcapture %}
 
