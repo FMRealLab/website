@@ -1,5 +1,5 @@
 ---
-title: Sciencebreaker Equalizing strength among sexes: generalized intersexuality in female moles
+title: Sciencebreaker Equalizing strength among sexes generalized intersexuality in female moles
 image: images/ScienceBreaker.png
 author: Real Lab Team
 ---
