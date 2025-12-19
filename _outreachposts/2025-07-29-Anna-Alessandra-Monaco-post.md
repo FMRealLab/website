@@ -1,6 +1,6 @@
 ---
 title: Post from Anna Alessandra Monaco about The molecular remix of bat wing evolution
-image: images/post_ana_monaco.png
+image: images/post_ana_monaco_portada.png
 author: Real Lab Team
 ---
 
