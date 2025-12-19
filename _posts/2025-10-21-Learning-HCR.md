@@ -1,6 +1,6 @@
 ---
 title: Learning HCR with Keren Yam from Lupiañez Lab
-image: images/
+image: images/Sox9_mole_tail.png
 author: Real Lab Team
 ---
 
@@ -27,7 +27,7 @@ Here you can see one of our first images 🎉!
 
 {%
   include figure.html
-  image="images/Sox9_mole_tail"
+  image="images/Sox9_mole_tail.png"
   caption=" Samples from ten years ago and _Sox9_ still shining bright in the tail"
   width="700px"
 %}
