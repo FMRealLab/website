@@ -8,7 +8,7 @@ We would like to express our sincere gratitude to our former colleague Ana Aless
 
 Ana’s thoughtful post helps bring this research to a broader audience, and we truly appreciate her continued support and engagement with our work. Thank you, Ana, for sharing our findings and contributing to the scientific dialogue!
 
-Check her post here: [click]("https://darkgenomevo.wordpress.com/2025/07/29/the-molecular-remix-of-bat-wing-evolution/") 📰
+Check her post here: ([click]("https://darkgenomevo.wordpress.com/2025/07/29/the-molecular-remix-of-bat-wing-evolution/")) 📰
 
 {%
   include figure.html
