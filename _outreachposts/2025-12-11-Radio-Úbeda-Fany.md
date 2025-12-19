@@ -8,4 +8,6 @@ We are proud to share that Fany, was recently invited to Diez TV Úbeda, the pro
 
 During the interview, Fany spoke about the exciting research projects carried out in our lab, highlighting our commitment to understanding evolutionary innovation and gene regulation. This opportunity to communicate science to a broader audience is essential for fostering public engagement and sharing the impact of our work.
 
-![]((https://www.youtube.com/watch?v=jaT8GPf9Hxc))
+
+![](https://www.youtube.com/watch?v=jaT8GPf9Hxc)
+
