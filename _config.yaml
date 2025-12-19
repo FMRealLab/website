@@ -67,7 +67,7 @@ jekyll-spaceship:
     default:
       id: 'media-{id}'
       class: 'media'
-      width: 800
+      width: 1000
       height: 600
       frameborder: 0
       style: 'max-width: 2000px; outline: none;'
