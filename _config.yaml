@@ -70,7 +70,7 @@ jekyll-spaceship:
       width: 1500
       height: 600
       frameborder: 0
-      style: 'max-width: 600px; outline: none;'
+      style: 'max-width: 2000px; outline: none;'
       allow: 'encrypted-media; picture-in-picture'
 
 # code block syntax highlighting
