@@ -1,5 +1,5 @@
 ---
-title: Participation in the book Lebenskünstler: Von frostfesten Fischen, radioaktivitätsresistenten Bärtierchen und selbstheilenden Amphibien  
+title: Participation in the book Lebenskünstler Von frostfesten Fischen, radioaktivitätsresistenten Bärtierchen und selbstheilenden Amphibien  
 image: images/Lebenskunstler_book.png
 author: Real Lab Team
 ---
