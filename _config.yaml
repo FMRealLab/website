@@ -58,6 +58,18 @@ plugins:
   - jekyll-feed
   - jekyll-last-modified-at
 
+  # default enabled processors jekyll-spaceship
+  processors:
+  media-processor:
+    default:
+      id: 'media-{id}'
+      class: 'media'
+      width: 800
+      height: 500
+      frameborder: 0
+      style: 'max-width: 600px; outline: none;'
+      allow: 'encrypted-media; picture-in-picture'
+
 # code block syntax highlighting
 highlighter: rouge
 
