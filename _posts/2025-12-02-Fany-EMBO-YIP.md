@@ -12,13 +12,13 @@ For more information check 📰:
 
 {% capture col1 %}
 
-{% include figure.html image="images/EMBO_logo.png" caption="([Max Planck Institute for Molecular Genetics](https://www.molgen.mpg.de/news-2025-flying-with-hands))" %}
+{% include figure.html image="images/EMBO_logo.png" caption="([EMBO]([https://www.molgen.mpg.de/news-2025-flying-with-hands](https://www.embo.org/press-releases/twenty-eight-group-leaders-become-embo-young-investigators/)))" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/csic_andalucia.png" caption="([Centro Superior Investagaciones Científicas]([https://delegacion.andalucia.csic.es/un-estudio-revela-que-las-alas-de-los-murcielagos-se-forman-reutilizando-programas-geneticos-ya-existentes/](https://delegacion.andalucia.csic.es/la-investigadora-del-csic-francisca-martinez-real-nombrada-joven-investigadora-embo/)))" %}
+{% include figure.html image="images/csic_andalucia.png" caption="([Centro Superior Investagaciones Científicas]([https://delegacion.andalucia.csic.es/la-investigadora-del-csic-francisca-martinez-real-nombrada-joven-investigadora-embo/)))" %}
 
 {% endcapture %}
 
