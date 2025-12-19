@@ -18,7 +18,7 @@ For more information check 📰:
 
 {% capture col2 %}
 
-{% include figure.html image="images/csic_andalucia.png" caption="([Centro Superior Investagaciones Científicas]([https://delegacion.andalucia.csic.es/la-investigadora-del-csic-francisca-martinez-real-nombrada-joven-investigadora-embo/)))" %}
+{% include figure.html image="images/csic_andalucia.png" caption="([Centro Superior Investagaciones Científicas]([https://delegacion.andalucia.csic.es/la-investigadora-del-csic-francisca-martinez-real-nombrada-joven-investigadora-embo/))" %}
 
 {% endcapture %}
 
