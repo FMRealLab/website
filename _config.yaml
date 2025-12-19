@@ -59,7 +59,10 @@ plugins:
   - jekyll-last-modified-at
 
   # default enabled processors jekyll-spaceship
+  # Where things are
+jekyll-spaceship:
   processors:
+    - media-processor
   media-processor:
     default:
       id: 'media-{id}'
