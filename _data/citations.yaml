@@ -84,7 +84,7 @@
   - "Dar\xEDo Lupi\xE1\xF1ez"
   - Stefan Mundlos
   - Francisca M. Real
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-13'
   link: https://doi.org/g8739d
   orcid: 0000-0003-0692-2260
@@ -160,8 +160,8 @@
   type: paper
   image: images/Fig-CellAdhesion-paper.png
 - id: doi:10.1101/2023.03.22.533123
-  title: "Complete male-to-female sex reversal in XY mice lacking the<i>miR-17\u223C\
-    92</i>cluster"
+  title: "Complete male-to-female sex reversal in XY mice lacking the\n          \
+    \        <i>miR-17\u223C92</i>\n                  cluster"
   authors:
   - Alicia Hurtado
   - "Irene Mota-G\xF3mez"
@@ -172,7 +172,7 @@
   - "Dar\xEDo G. Lupi\xE1\xF1ez"
   - "Rafael Jim\xE9nez"
   - Francisco J. Barrionuevo
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-23'
   link: https://doi.org/g8739g
   orcid: 0000-0003-0692-2260
@@ -183,7 +183,8 @@
   description: Currently as a preprint on BioRxiv.
   image: images/BioRxiv_logo.png
 - id: doi:10.1101/2022.10.28.514220
-  title: Co-option of the transcription factor<i>SALL1</i>in mole ovotestis formation
+  title: "Co-option of the transcription factor\n                  <i>SALL1</i>\n\
+    \                  in mole ovotestis formation"
   authors:
   - Magdalena Schindler
   - Marco Osterwalder
@@ -195,7 +196,7 @@
   - Axel Visel
   - Stefan Haas
   - Francisca M. Real
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-28'
   link: https://doi.org/gs2cj8
   orcid: 0000-0003-0692-2260
@@ -239,7 +240,7 @@
   - "Dar\xEDo G. Lupi\xE1\xF1ez"
   - "Rafael Jim\xE9nez"
   - Francisco J. Barrionuevo
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-01-12'
   link: https://doi.org/g8739h
   orcid: 0000-0003-0692-2260
@@ -250,8 +251,8 @@
   description: BioRxiv published later on "2022".
   image: images/BioRxiv_logo.png
 - id: doi:10.1101/2021.04.14.439779
-  title: <i>In vivo</i>dissection of a clustered-CTCF domain boundary reveals developmental
-    principles of regulatory insulation
+  title: "<i>In vivo</i>\n                  dissection of a clustered-CTCF domain\
+    \ boundary reveals developmental principles of regulatory insulation"
   authors:
   - Chiara Anania
   - Rafael D. Acemel
@@ -263,7 +264,7 @@
   - Lars Wittler
   - Francisca M. Real
   - "Dar\xEDo G. Lupi\xE1\xF1ez"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-04-14'
   link: https://doi.org/gsw9s8
   orcid: 0000-0003-0692-2260
