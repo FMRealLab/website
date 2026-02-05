@@ -8,6 +8,6 @@ Today we celebrate the International Day of Women and Girls in Science, a remind
 
 Fany participated in this year’s event by visiting IES Nervión, where she shared the exciting research projects we develop at the Centro Andaluz de Biología del Desarrollo (CABD).
 
-Her visit helped bring science closer to students. Inspiring young minds, especially girls, to see themselves as future scientists is one of the most meaningful impacts we can make. 
+Her visit helped bring science closer to students. Inspiring young minds, especially girls, to see themselves as future scientists.
 
 {% include figure.html image="images/Fany_DMYLC.png" %}
