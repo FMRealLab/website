@@ -8,8 +8,6 @@ Fany traveled to Valencia to meet with the EvoDevOmics Spanish Network 🇪🇸�
 
 A great opportunity to strengthen collaborations, share progress, and explore new ideas in evolutionary genetics and developmental biology.
 
-{% capture col1 %}
-
 {% include figure.html image="images/Red_EvoDevOmics_meeting.png" %}
 
-{% endcapture %}
+
