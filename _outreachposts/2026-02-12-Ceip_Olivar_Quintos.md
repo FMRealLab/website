@@ -4,7 +4,7 @@ image: images/Ceip_Olivar_Quintos_banner.png
 author: Real Lab Team
 ---
 
-On the occasion of the International Day of Women and Girls in Science, celebrated on February 11, Fany, together with Dario Jesús Lupiáñez García and Alicia Hurtado Madrid from the Lupiáñez Lab, visited CEIP Olivar de Quintos to bring science closer to young students.
+On the occasion of the International Day of Women and Girls in Science, celebrated on February 11, Fany, together with Alicia Hurtado Madrid and Dario Jesús Lupiáñez García from the Lupiáñez Lab, visited CEIP Olivar de Quintos to bring science closer to young students.
 
 During their visit, they shared what everyday life looks like for a scientist, offering students a glimpse into the excitement and curiosity that drive scientific research.
 
