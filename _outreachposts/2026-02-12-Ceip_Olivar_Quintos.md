@@ -1,6 +1,6 @@
 ---
 title: Exploring Science Together at CEIP Olivar de Quintos
-image: images/Ceip_Olivar_Quintos_banner.png
+image: images/Ceip_Olivar_Quintos_banner_v2.png
 author: Real Lab Team
 ---
 
