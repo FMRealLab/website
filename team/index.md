@@ -14,7 +14,7 @@ nav:
 
 {% include section.html dark=true %}
 
-Our lab brings together a dynamic team of both experimental and computational members. This hybrid approach encourages teamwork, combining different perspectives to decode the complexities of mole evolutionary traits.
+Our lab brings together a dynamic team of both experimental and computational members. This hybrid approach encourages teamwork, combining different perspectives to decode the complexities of mole evolutionary traits. 
 
 {% include section.html %}
 
