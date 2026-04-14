@@ -14,7 +14,7 @@ Rubén took part in the Open Day at the University Pablo de Olavide, an event ai
 
 {% capture col2 %}
 
-{% include figure.html image="images/stand_upo_jornadas.png" caption="Cristina García Gutierrez, Javier Valle Galisteo and Rubén Sánchez Rodríguez" %}
+{% include figure.html image="images/stand_upo_jornadas.png" caption="Javier Valle Galisteo, Cristina García Gutierrez, and Rubén Sánchez Rodríguez" %}
 
 {% endcapture %}
 
