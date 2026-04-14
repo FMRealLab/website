@@ -11,3 +11,4 @@ This EMBO Workshop focused on understanding how genetic programs, cellular dynam
 During the congress, Fany had the pleasure of delivering her first lecture as an EMBO Young Investigator Programme (EMBO‑YIP) member.
 
 {% include figure.html image="images/Congress_Tokyo.png" %}
+ 
