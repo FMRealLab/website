@@ -1,5 +1,5 @@
 ---
-title: Limb development and regeneration: quantitative, ecological, and diversification studies. March 2026, Tokyo (Japan) 🧬
+title: "Limb development and regeneration: quantitative, ecological, and diversification studies. March 2026, Tokyo (Japan) 🇯🇵🧬"
 image: images/Portada_congress_japon.png
 author: Real Lab Team
 ---
