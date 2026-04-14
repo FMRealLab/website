@@ -4,7 +4,7 @@ image: images/Portada_congress_japon.png
 author: Real Lab Team
 ---
 
-Fany was an invited speaker at the congress “([Limb Development and Regeneration: Quantitative, Ecological, and Diversification Studies](https://meetings.embo.org/event/26-limb-dev))”, held in Japan.
+Fany was an invited speaker at the congress [Limb Development and Regeneration: Quantitative, Ecological, and Diversification Studies](https://meetings.embo.org/event/26-limb-dev), held in Japan.
 
 This EMBO Workshop focused on understanding how genetic programs, cellular dynamics, and environmental factors shape limb development, regeneration, and morphological diversification across species. By integrating quantitative approaches, evolutionary perspectives, and ecological insights, the meeting fostered cross‑disciplinary dialogue to advance our understanding of limb biology.
 
