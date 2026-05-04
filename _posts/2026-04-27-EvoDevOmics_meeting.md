@@ -17,7 +17,7 @@ Congratulations to both for showcasing their work and representing the lab so we
 
 {% capture col2 %}
 
-{% include figure.html image="images/Ruben_EvoDevOmics_talk.png" caption="Ruben's Talk" %}
+{% include figure.html image="images/Ruben_EvoDevOmics_talk.png" caption="Rubén's Talk" %}
 
 {% endcapture %}
 
