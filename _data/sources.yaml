@@ -1,3 +1,7 @@
+- id: doi:10.1038/s41576-026-00957-z
+  type: paper
+  image: images/nature_review_genetics.png
+
 - id: pmid:40670657
   type: paper
   image: images/Fig-Bat-paper.png 
@@ -7,7 +11,7 @@
   image: images/whale.png
 
 - id: doi:10.1101/2024.10.10.617585
-  type: paper
+  type: preprint
   description: Currently as a preprint on BioRxiv.
   image: images/Fig-Bat-paper.png
 
@@ -24,12 +28,12 @@
   image: images/Fig-CellAdhesion-paper.png
 
 - id: doi:10.1101/2023.03.22.533123
-  type: paper
+  type: preprint
   description: Currently as a preprint on BioRxiv.
   image: images/BioRxiv_logo.png
 
 - id: doi:10.1101/2022.10.28.514220
-  type: paper
+  type: preprint
   description: Currently as a preprint on BioRxiv.
   image: images/BioRxiv_logo.png
 
@@ -38,12 +42,12 @@
   image: images/naturegenetics-logo.png
 
 - id: doi:10.1101/2022.01.12.476048
-  type: paper
+  type: preprint
   description: BioRxiv published later on "2022".
   image: images/BioRxiv_logo.png
 
 - id: doi:10.1101/2021.04.14.439779
-  type: paper
+  type: preprint
   description: BioRxiv published later on "2022".
   image: images/BioRxiv_logo.png
 
