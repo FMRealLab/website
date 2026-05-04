@@ -5,6 +5,7 @@ role: postdoc
 links:
   email: flim@upo.es
   bluesky: 
+  orcid: "0000-0001-5628-7707"
 ---
 
 I am interested in learning how our genomes encode various unique lifeforms. This led me to obtain a PhD at the University of California San Diego in 2025 under the supervision of Dr. Emma Farley. I studied non-coding regions in the genome known as enhancers, and how they regulate gene expression in development, disease and evolution. 
