@@ -3,7 +3,6 @@ name: Fabian Lim
 image: images/cara-fabian.png
 role: postdoc
 links:
-  github: 
   email: flim@upo.es
   bluesky: 
 ---
