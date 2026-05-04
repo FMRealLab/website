@@ -75,7 +75,7 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {%
   include feature.html
-  image="images/foto-grupo-Real.png"
+  image="images/Fabian_welcome.png"
   link="team"
   title="Our Team"
   text=text
