@@ -535,3 +535,32 @@
   file: sources.yaml
   type: paper
   image: images/jezb-logo.png
+- id: doi:10.1038/s41594-026-01749-z
+  title: Chromatin spatial analysis by METALoci unveils sex-determining 3D regulatory
+    hubs
+  authors:
+  - "Irene Mota-G\xF3mez"
+  - "Juan Antonio Rodr\xEDguez"
+  - Shannon Dupont
+  - Alicia Hurtado
+  - Vanessa Cadenas
+  - Leo Zuber
+  - Iago Maceda
+  - Oscar Lao
+  - Johanna Jedamzick
+  - "Ralf K\xFChn"
+  - Scott Lacadie
+  - "Sara Alexandra Garc\xEDa-Moreno"
+  - Miguel Torres
+  - Francisca M. Real
+  - Rafael D. Acemel
+  - Blanche Capel
+  - Marc A. Marti-Renom
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2026-02-24'
+  link: https://doi.org/qxg8
+  type: paper
+  image: images/Nature_smb_logo.png
+  plugin: sources.py
+  file: sources.yaml
