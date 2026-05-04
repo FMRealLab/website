@@ -29,7 +29,7 @@
 
 - id: doi:10.1101/2023.03.22.533123
   type: preprint
-  description: Currently as a preprint on BioRxiv.
+  description: Published later on 2023.
   image: images/BioRxiv_logo.png
 
 - id: doi:10.1101/2022.10.28.514220
