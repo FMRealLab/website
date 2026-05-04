@@ -1,5 +1,5 @@
 ---
-title: "1st General Meeting of the Spanish EvoDevOmics Network in BArcelona 27-28 April 2026"
+title: "1st General Meeting of the Spanish EvoDevOmics Network in Barcelona 27-28 April 2026"
 image: images/EvoDevOmics_logo.png
 author: Real Lab Team
 ---
