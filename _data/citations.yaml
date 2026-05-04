@@ -194,7 +194,7 @@
   plugin: sources.py
   file: sources.yaml
   type: preprint
-  description: Currently as a preprint on BioRxiv.
+  description: Published later on 2023.
   image: images/BioRxiv_logo.png
 - id: doi:10.1101/2022.10.28.514220
   title: "Co-option of the transcription factor\n                  <i>SALL1</i>\n\
