@@ -6,7 +6,7 @@ author: Real Lab Team
 
 We’re delighted to celebrate that Nacho and Rubén attended the *General Meeting of the Spanish EvoDevOmics Network*, where they presented a talk sharing their latest research. The meeting brought together researchers from across Spain focused on *Evolutionary Developmental Biology*, making it a great venue for discussion and exchange.
 
-Congratulations to both for showcasing their work and representing the lab so well! 👏🧬
+Congratulations to both for showcasing their work and representing the lab so well! 👏🧬 
 
 
 {% capture col1 %}
