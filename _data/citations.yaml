@@ -14,6 +14,37 @@
   file: sources.yaml
   type: paper
   image: images/nature_review_genetics.png
+- id: doi:10.1038/s41594-026-01749-z
+  title: Chromatin spatial analysis by METALoci unveils sex-determining 3D regulatory
+    hubs
+  authors:
+  - "Irene Mota-G\xF3mez"
+  - "Juan Antonio Rodr\xEDguez"
+  - Shannon Dupont
+  - Alicia Hurtado
+  - Vanessa Cadenas
+  - Leo Zuber
+  - Iago Maceda
+  - Oscar Lao
+  - Johanna Jedamzick
+  - "Ralf K\xFChn"
+  - Scott Lacadie
+  - "Sara Alexandra Garc\xEDa-Moreno"
+  - Miguel Torres
+  - Francisca M. Real
+  - Rafael D. Acemel
+  - Blanche Capel
+  - Marc A. Marti-Renom
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2026-02-24'
+  link: https://doi.org/qxg8
+  orcid: 0000-0003-0692-2260
+  francisca-martinez: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/Nature_smb_logo.png
 - id: pmid:40670657
   title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
     gene programme in bat wing development.
@@ -535,32 +566,3 @@
   file: sources.yaml
   type: paper
   image: images/jezb-logo.png
-- id: doi:10.1038/s41594-026-01749-z
-  title: Chromatin spatial analysis by METALoci unveils sex-determining 3D regulatory
-    hubs
-  authors:
-  - "Irene Mota-G\xF3mez"
-  - "Juan Antonio Rodr\xEDguez"
-  - Shannon Dupont
-  - Alicia Hurtado
-  - Vanessa Cadenas
-  - Leo Zuber
-  - Iago Maceda
-  - Oscar Lao
-  - Johanna Jedamzick
-  - "Ralf K\xFChn"
-  - Scott Lacadie
-  - "Sara Alexandra Garc\xEDa-Moreno"
-  - Miguel Torres
-  - Francisca M. Real
-  - Rafael D. Acemel
-  - Blanche Capel
-  - Marc A. Marti-Renom
-  - "Dar\xEDo G. Lupi\xE1\xF1ez"
-  publisher: Nature Structural &amp; Molecular Biology
-  date: '2026-02-24'
-  link: https://doi.org/qxg8
-  type: paper
-  image: images/Nature_smb_logo.png
-  plugin: sources.py
-  file: sources.yaml
