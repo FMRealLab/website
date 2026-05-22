@@ -1,5 +1,5 @@
 ---
-title: "Fany as an invited speaker in the conference "L’évolution des mécanismes du développement" organized by Denis Duboule"
+title: "Fany as an invited speaker in the conference _L’évolution des mécanismes du développement_ organized by Denis Duboule"
 image: images/portada_Denis_Duboule.png
 author: Real Lab Team
 ---
