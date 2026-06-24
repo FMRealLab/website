@@ -14,6 +14,25 @@
   file: sources.yaml
   type: paper
   image: images/nature_review_genetics.png
+- id: doi:10.64898/2026.06.03.729816
+  title: "Evolution and mechanism of\n                  <i>MEIS2</i>\n           \
+    \       -mediated forelimb specialization in bats"
+  authors:
+  - Bai-Wei Lo
+  - Silvia Aldrovandi
+  - David Meierhofer
+  - Magdalena Schindler
+  - Francisca Martinez Real
+  - Alessa Ringel
+  - Christian Feregrino
+  - Stefan Mundlos
+  publisher: openRxiv
+  date: '2026-06-04'
+  link: https://doi.org/hb6vwk
+  orcid: 0000-0003-0692-2260
+  francisca-martinez: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41594-026-01749-z
   title: Chromatin spatial analysis by METALoci unveils sex-determining 3D regulatory
     hubs
@@ -137,7 +156,7 @@
   plugin: sources.py
   file: sources.yaml
   type: preprint
-  description: Currently as a preprint on BioRxiv.
+  description: Published later on 2025.
   image: images/Fig-Bat-paper.png
 - id: doi:10.1038/s41467-024-47658-x
   title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster
