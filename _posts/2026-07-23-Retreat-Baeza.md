@@ -1,5 +1,5 @@
 ---
-title: "Scientific Retreat at Baeza"
+title: Scientific Retreat at Baeza
 image: images/Baeza_group_picture.png
 author: Real Lab Team
 ---
