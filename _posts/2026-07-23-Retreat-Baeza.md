@@ -1,5 +1,5 @@
 ---
-title: Scientific Retreat at Baeza
+title: "Scientific Retreat at Baeza"
 image: images/Baeza_group_picture.png
 author: Real Lab Team
 ---
@@ -12,7 +12,7 @@ Great science starts with great conversations, and this retreat was full of them
 
 {% capture col1 %}
 
-{% include figure.html image="images/Baeza_tourism.png caption="Fieldwork in Baeza 🤠🏘️" %}
+{% include figure.html image="images/Baeza_tourism.png" caption="Fieldwork in Baeza 🤠🏘️" %}
 
 {% endcapture %}
 
