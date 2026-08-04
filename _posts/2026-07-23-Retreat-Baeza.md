@@ -8,7 +8,7 @@ We recently gathered in Baeza for our scientific retreat along with Lupiañez La
 
 Great science starts with great conversations, and this retreat was full of them. Thanks to everyone for the engaging discussions and inspiring atmosphere!
 
-{% include figure.html image="images/Baeza_group_picture.png" caption="Lupiañez, Acemel and Real Lab" %} 
+{% include figure.html image="images/Baeza_group_picture.png" caption="Lupiañez, Acemel and Real Lab" %}
 
 {% capture col1 %}
 
