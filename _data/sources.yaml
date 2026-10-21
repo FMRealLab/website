@@ -1,6 +1,6 @@
 - id: doi:10.1038/s41576-026-00957-z 
   type: preprint
-  image: images/BioRxiv_logo.png
+  image: images/BioRxiv_logo.png 
 
 - id: doi:10.1038/s41594-026-01749-z
   type: paper
