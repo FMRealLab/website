@@ -4,7 +4,7 @@ image: images/workshop_embo.png
 author: Real Lab Team
 ---
 
-Fany participated as an invited speaker in hte EMBO workshop: Beyond the standard: unconventional vertebrate models in biomedicine in Portugal 🇵🇹!!
+Fany participated as an invited speaker in hte EMBO workshop: Beyond the standard: unconventional vertebrate models in biomedicine in Portugal 🇵🇹!! 
 
 
 {% include figure.html image="images/workshop_embo.png" %}
