@@ -1,6 +1,6 @@
 ---
 title: "Invited speaker: Michael Wilson from the University of Toronto, Canada"
-image: images/
+image: images/MihaelandFany.png
 author: Real Lab Team
 ---
 
