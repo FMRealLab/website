@@ -7,7 +7,7 @@ author: Real Lab Team
 Margarida is a highly enthusiastic scientist conducting outstanding research on how new organs originate and how they evolve in form and function across species, using the placenta in fishes 🐟 as one of her main model systems. Her lab investigates the genetic, cellular, and developmental mechanisms underlying the repeated and independent evolution of placentas in mammals 🐁 and fishes 🐟. Don't miss the opportunity to discover her exciting science and meet her in person!
 
 
-**Title of the seminar**: The evolution of new cell types and organs.
+**Title of the seminar**: The evolution of new cell types and organs. 
 
 
 {% include figure.html image="images/Announcement_Margarida.png" %}
