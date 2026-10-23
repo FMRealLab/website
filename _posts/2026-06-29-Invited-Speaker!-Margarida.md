@@ -20,7 +20,7 @@ Margarida is a highly enthusiastic scientist conducting outstanding research on 
 
 {% capture col2 %}
 
-{% include figure.html image="images/MargaridaandFany.png" caption="CABD auditorium" %}
+{% include figure.html image="images/MargaridaandFany.png" %}
 
 {% endcapture %}
 
