@@ -1,6 +1,6 @@
 ---
 title: "XII edition of the Doctoral days in UPO and Instituto de la Grasa (CSIC)"
-image: images/Poster_Devbio.png
+image: images/Jornadas_portada.png
 author: Real Lab Team
 ---
 
