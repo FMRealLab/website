@@ -118,7 +118,7 @@ Our lab brings together a dynamic team of both experimental and computational me
 
 {%
   include figure.html
-  image="images/Maeztu.png"
+  image="images/EMBO.png"
 %}
 
 {% endcapture %}
