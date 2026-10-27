@@ -3,7 +3,7 @@
 
 # **Gene Regulation and Evolution**
 
-What makes each species unique isn't just its genes, but how they're regulated. While only 2% of the genome codes for proteins, the remaining 98% shapes when, where, and how genes are expressed, driving the evolution of specialized traits. In our lab, we use the mole as a model to uncover how gene regulation sculpts adaptation, giving us a unique perspective on evolution—_through the eyes of a mole_.
+What makes each species unique isn't just its genes, but how they're regulated. While only 2% of the genome codes for proteins, the remaining 98% shapes when, where, and how genes are expressed, driving the evolution of specialized traits. In our lab, we use the mole as a model to uncover how gene regulation sculpts adaptation, giving us a unique perspective on evolution—_through the eyes of a mole_. 
 
 
 {% include section.html %}
