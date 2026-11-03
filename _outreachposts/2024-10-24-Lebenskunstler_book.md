@@ -1,10 +1,10 @@
 ---
-title: Participation in the book Lebenskünstler Von frostfesten Fischen, radioaktivitätsresistenten Bärtierchen und selbstheilenden Amphibien  
+title: COntribution in the book Lebenskünstler Von frostfesten Fischen, radioaktivitätsresistenten Bärtierchen und selbstheilenden Amphibien  
 image: images/Lebenskunstler_book.png
 author: Real Lab Team
 ---
 
-For non German speakers: Remarkable: What animals can teach us about ourselves, the value of diversity, and saving the world” by Russ Hodge. We’re proud to share that Fany participated in writing two chapters of this book. Her contributions include:
+For non German speakers: Remarkable: What animals can teach us about ourselves, the value of diversity, and saving the world” by Russ Hodge. We’re proud to share that Fany was interviewed by Russ Hodge and some of her anecdotes contributed to the following chapters of this book:
 
 Chapter 3: Female, male, everything in between, everything else
 Chapter 4: A world made of sound, upside down
