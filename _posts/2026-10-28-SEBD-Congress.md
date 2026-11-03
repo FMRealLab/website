@@ -4,9 +4,9 @@ image: images/Logo_SEBD.png
 author: Real Lab Team
 ---
 
-This week, the entire Real Lab traveled to El Rompido (Huelva) to participate in the 19th Meeting of the Spanish Society for [Developmental Biology (SEBD)](https://sebd2026.com/). This conference fosters interactions between Spanish and international researchers working in the field of Developmental Biology.
+This week, the entire Real Lab traveled to El Rompido (Huelva) to participate in the 19th Meeting of the Spanish Society for [Developmental Biology (SEBD)](https://sebd2026.com/). This conference fosters interactions between Spanish and international researchers working in this field.
 
-During the meeting, Fany had the honor of delivering an EMBO Young Investigator Programme (YIP) Lecture, opening the Evo-Devo session of the congress. Meanwhile, Nacho, Fabian, and Rubén presented their ongoing research projects during the poster sessions, showcasing the work being carried out in the lab.
+During the meeting, Fany had the honor of delivering an EMBO Young Investigator Programme (YIP) Lecture, opening the Evo-Devo session of the congress. Meanwhile, Nacho, Fabian, and Rubén presented their ongoing research projects during the poster sessions, sharing the exciting work currently being carried out in the lab.
 
 
 {% include figure.html image="images/Fany_SEBD.png" caption="Evo-Devo session opening" %} 
