@@ -19,10 +19,14 @@ During the meeting, Fany had the honor of delivering an EMBO Young Investigator 
 
 {% capture col2 %}
 
-{% include figure.html image="images/Fabian_SEBD.png" caption="Fabian's poster"%}
+{% include figure.html image="images/Fabian_SEBD.png" caption="Fabian's poster" %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %} 
+{% capture col3 %}
 
 {% include figure.html image="images/Rubén_SEBD.png" caption="Rubén's poster" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %} 
